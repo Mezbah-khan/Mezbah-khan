@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mezbah khan</h1>
-<h3 align="center">I'm a machine learning expert form Bangladesh. So i can build Ai tools as your requirement</h3>
+<h3 align="center">I'm a Data scientist expert form Bangladesh. So i can build Ai tools as your requirement</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mezbah-khan&label=Profile%20views&color=0e75b6&style=flat" alt="mezbah-khan" /> </p>
 
