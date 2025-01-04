@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [LearnAI](https://github.com/Mezbah-khan/LearnAi-)
 
-- 🌱 I’m currently learning **deep learning and DSA**
+- 🌱 I’m currently learning **deep learning and Generative Ai **
 
 - 👯 I’m looking to collaborate on [Microsoft](https://www.microsoft.com/en-us/)
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **mezbahkhan155@gmail.com**
 
-- ⚡ Fun fact **I'm a professional software developer**
+- ⚡ Fun fact **I'm a professional Data scientist**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
